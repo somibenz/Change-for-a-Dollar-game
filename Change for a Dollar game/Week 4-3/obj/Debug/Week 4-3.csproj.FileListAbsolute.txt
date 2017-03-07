@@ -1,0 +1,42 @@
+G:\C# practice exercises\Week 4-3\Week 4-3\bin\Debug\Week 4-3.exe.config
+G:\C# practice exercises\Week 4-3\Week 4-3\bin\Debug\Week 4-3.exe
+G:\C# practice exercises\Week 4-3\Week 4-3\bin\Debug\Week 4-3.pdb
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\Week 4-3.csprojResolveAssemblyReference.cache
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\MainWindow.g.cs
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\App.g.cs
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\Week 4-3_MarkupCompile.cache
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\Week 4-3_MarkupCompile.lref
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\MainWindow.baml
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\Week 4-3.g.resources
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\Week_4_3.Properties.Resources.resources
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\Week 4-3.csproj.GenerateResource.Cache
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\Week 4-3.exe
+G:\C# practice exercises\Week 4-3\Week 4-3\obj\Debug\Week 4-3.pdb
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\bin\Debug\Week 4-3.exe.config
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\Week 4-3.exe
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\Week 4-3.pdb
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\bin\Debug\Week 4-3.exe
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\bin\Debug\Week 4-3.pdb
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\Week 4-3.csprojResolveAssemblyReference.cache
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\MainWindow.g.cs
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\App.g.cs
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\Week 4-3_MarkupCompile.cache
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\Week 4-3_MarkupCompile.lref
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\MainWindow.baml
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\Week 4-3.g.resources
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\Week_4_3.Properties.Resources.resources
+G:\C# practice exercises\week 4C# assignments\Week 4-3\Week 4-3\obj\Debug\Week 4-3.csproj.GenerateResource.Cache
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\bin\Debug\Week 4-3.exe.config
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\Week 4-3.exe
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\Week 4-3.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\bin\Debug\Week 4-3.exe
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\bin\Debug\Week 4-3.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\Week 4-3.csprojResolveAssemblyReference.cache
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\MainWindow.g.cs
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\App.g.cs
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\Week 4-3_MarkupCompile.cache
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\Week 4-3_MarkupCompile.lref
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\MainWindow.baml
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\Week 4-3.g.resources
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\Week_4_3.Properties.Resources.resources
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\week 4C# assignments\Change for a Dollar game\Week 4-3\obj\Debug\Week 4-3.csproj.GenerateResource.Cache
